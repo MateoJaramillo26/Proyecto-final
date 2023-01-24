@@ -1,0 +1,7 @@
+Nombres:
+MateoApellidos:
+JaramilloCedula:
+123456789Celular:
+123456789Usuario:
+MarteContrasena:
+123456
